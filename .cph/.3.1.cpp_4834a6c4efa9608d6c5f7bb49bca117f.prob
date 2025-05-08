@@ -1,1 +1,0 @@
-{"name":"Local: 3","url":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Code\\PTIT_TRR2\\3.1.cpp","tests":[{"id":1744291853960,"input":"2\n\n4 2\n\n0 1 0 1\n\n1 0 1 0\n\n0 1 0 1\n\n1 0 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Code\\PTIT_TRR2\\3.1.cpp","group":"local","local":true}
