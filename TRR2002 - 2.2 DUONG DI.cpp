@@ -36,8 +36,8 @@ bool findPath(int st, int en){
 
 int main(){
     boost;
-    // freopen("TK.INP", "r", stdin);
-    // freopen("TK.OUT", "w", stdout);
+    freopen("TK.INP", "r", stdin);
+    freopen("TK.OUT", "w", stdout);
     cin >> t >> vertex >> startVertex >> endVertex;
     edges.resize(vertex + 1);
     adj.resize(vertex + 1, vector<int>(vertex + 1, 0));
